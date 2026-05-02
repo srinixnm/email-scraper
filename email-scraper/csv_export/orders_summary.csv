@@ -1,0 +1,3 @@
+order_id,vendor,invoice_number,invoice_date,total_amount,currency,email_from,email_subject,processing_date,source_file,line_items_count
+DEMO-001,ABC Supplies Inc.,INV-2024-001,2024-01-15,1250.5,USD,sales@abcsupplies.com,Order Confirmation - INV-2024-001,2026-05-02T10:58:15.392002,invoice_001.pdf,3
+DEMO-002,TechGear Solutions,TG-2024-0156,2024-01-18,3499.99,USD,orders@techgear.com,Your Order #TG-2024-0156,2026-05-02T10:58:15.392016,invoice_002.pdf,4

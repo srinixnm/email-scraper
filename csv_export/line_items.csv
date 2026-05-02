@@ -1,0 +1,6 @@
+order_number,vendor,description,quantity,unit_price,total_price,file_name
+PO-2024-001,ABC Supplies Inc.,Office Chairs,10,75.00,750.00,demo_invoice_001.pdf
+PO-2024-001,ABC Supplies Inc.,Desk Lamps,25,20.00,500.00,demo_invoice_001.pdf
+INV-2024-042,Tech Parts Ltd.,Laptop Stand,15,45.50,682.50,demo_invoice_002.pdf
+INV-2024-042,Tech Parts Ltd.,Wireless Mouse,50,25.00,1250.00,demo_invoice_002.pdf
+INV-2024-042,Tech Parts Ltd.,Keyboard,30,50.60,1518.00,demo_invoice_002.pdf

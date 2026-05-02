@@ -1,0 +1,8 @@
+order_id,vendor,invoice_number,item_number,description,quantity,unit_price,amount
+DEMO-001,ABC Supplies Inc.,INV-2024-001,1,Office Paper A4 (Box),10,25.5,255.0
+DEMO-001,ABC Supplies Inc.,INV-2024-001,2,Ballpoint Pens (Pack of 50),5,15.0,75.0
+DEMO-001,ABC Supplies Inc.,INV-2024-001,3,Desk Organizer Set,8,45.0,360.0
+DEMO-002,TechGear Solutions,TG-2024-0156,1,Wireless Mouse,25,29.99,749.75
+DEMO-002,TechGear Solutions,TG-2024-0156,2,USB-C Hub Adapter,15,49.99,749.85
+DEMO-002,TechGear Solutions,TG-2024-0156,3,Mechanical Keyboard,10,89.99,899.9
+DEMO-002,TechGear Solutions,TG-2024-0156,4,Monitor Stand Adjustable,12,79.99,959.88

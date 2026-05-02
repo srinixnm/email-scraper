@@ -1,0 +1,3 @@
+vendor,order_number,order_date,total_amount,currency,file_name,items_count,customer_info,shipping_address,processed_date,email_from,email_subject,email_date
+ABC Supplies Inc.,PO-2024-001,01/15/2024,1250.00,USD,demo_invoice_001.pdf,2,XYZ Company,"123 Business St, City, State 12345",2026-05-02 10:08:27,vendor@example.com,Invoice - PO-2024-001,"Sat, 02 May 2026 10:08:27 +0000"
+Tech Parts Ltd.,INV-2024-042,01/16/2024,3450.50,USD,demo_invoice_002.pdf,3,XYZ Company,"123 Business St, City, State 12345",2026-05-02 10:08:27,vendor@example.com,Invoice - INV-2024-042,"Sat, 02 May 2026 10:08:27 +0000"
